@@ -1,5 +1,5 @@
 <!--a -->
-<h3 align = "center"> Hi, I'm Khesir! :wave: <h3>
+<h2 align = "center"> Hi, I'm Khesir! :wave: <h2>
 <i> <p align="center">Artist & Developer.</p> </i>
 <!--a -->
 <br/>
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <table>
+    <table align="center">
         <!--about me1 -->
         <tr>
             <td valign = "top" width = "40%"> 
@@ -39,8 +39,7 @@
     </table>
 </div>
 <!--Languages -->
-<h1 align = "center">Technology<h1>
-<br/>
+<h2 align = "center">Technology<h2>
     <p align="center">
         <a href= "" ><img src = "	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
         <a href= "" ><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
