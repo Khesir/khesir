@@ -1,6 +1,6 @@
 <!--a -->
-<h1 align = "center"> Hi, I'm Khesir! :wave: <h1>
-<i> <h3 align="center">Artist & Developer.</h3> </i>
+<h3 align = "center"> Hi, I'm Khesir! :wave: <h3>
+<i> <p align="center">Artist & Developer.</p> </i>
 <!--a -->
 <br/>
 <div align = "center">>
@@ -16,7 +16,7 @@
     <table>
         <!--about me1 -->
         <tr>
-            <td valign = "top" width = "20%"> 
+            <td valign = "top" width = "40%"> 
             -test
             -test
             -test
@@ -27,7 +27,7 @@
         </tr>
         <!--about me 2 -->
         <tr>
-            <td valign = "top" width = "20%"> 
+            <td valign = "top" width = "40%"> 
             -test
             -test
             -test
