@@ -48,3 +48,6 @@
 <p align="center">
   <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
+
+<p align="center">look at my website for sometime</p>
+<p align="center">[click here](https://khesir.github.io/khesir-personal-website/)</p>
