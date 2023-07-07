@@ -1,6 +1,6 @@
 <!--a -->
 <h2 align = "center"> Hi, I'm Khesir! :wave: </h2>
-<i> <p align="center">Artist & Developer.</p> </i>
+<i> <p align="center">Artist & Developer. A Passionate problem solver, Highly intrested in creating softwares that will used to make my life even more easier & create games .</p> </i>
 <!--a -->
 
 <div align = "center">
@@ -18,26 +18,11 @@
 <!--about me -->
 <tr>
 <td valign = "top"> 
-
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-
-</td>
-<td valign = "top"> 
-
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-
+- Currently a Undergrad 3rd year studying Computer Science
+- Highly intrested on Game Systems, Fullstack development , Bots & AI
+- Illustrator and pixelart mainly draw character and prefabs
+- Currently Learning C# Discord Bots, Implementing various API
+- Producing projects as many as possible.
 </td>
 </tr>
 </table>
@@ -56,11 +41,12 @@
          <a href= "" ><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </p>
 <!--Github Stats-->
+<h2 align = "center">Stats<h2>
 <p align="center">
   
-  <img with="400px" src="https://github-readme-stats.vercel.app/api?username=khesir&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
+  <img with="200px" src="https://github-readme-stats.vercel.app/api?username=khesir&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="200px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
 <!--Github Snek-->
