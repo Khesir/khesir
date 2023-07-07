@@ -19,9 +19,13 @@
 <tr>
 <td valign = "top"> 
 - Currently a Undergrad 3rd year studying Computer Science
+
 - Highly intrested on Game Systems, Fullstack development , Bots & AI
+
 - Illustrator and pixelart mainly draw character and prefabs
+
 - Currently Learning C# Discord Bots, Implementing various API
+
 - Producing projects as many as possible.
 </td>
 </tr>
