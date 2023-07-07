@@ -11,7 +11,6 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
-<br/>
 <h3 align="center"> ✨ About me✨ </h3>
 <div>
 <table align="center" width ="100%">
@@ -46,13 +45,8 @@
          <a href= "" ><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </p>
 <!--Github Stats-->
-<h2 align = "center">Stats<h2>
 <p align="center">
-  
-  <img with="50px" src="https://github-readme-stats.vercel.app/api?username=khesir&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
   
   <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
-<!--Github Snek-->
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
