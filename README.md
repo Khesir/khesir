@@ -14,30 +14,34 @@
 
 <div>
     <table align="center">
-        <!--about me1 -->
+        <!--about me -->
         <tr>
             <td valign = "top" width = "40%"> 
-            -test
-            -test
-            -test
-            -test
-            -test
-            -test
+                <p>
+                -test
+                -test
+                -test
+                -test
+                -test
+                -test
+                -test
+                </p>
             </td>
-        </tr>
-        <!--about me 2 -->
-        <tr>
             <td valign = "top" width = "40%"> 
-            -test
-            -test
-            -test
-            -test
-            -test
-            -test
-            -test</td>
+                <p>
+                -test
+                -test
+                -test
+                -test
+                -test
+                -test
+                -test
+                </p>
+            </td>
         </tr>
     </table>
 </div>
+
 <!--Languages -->
 <h2 align = "center">Technology<h2>
     <p align="center">
