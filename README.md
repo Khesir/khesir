@@ -2,7 +2,7 @@
 <h2 align = "center"> Hi, I'm Khesir! :wave: </h2>
 <i> <p align="center">Artist & Developer.</p> </i>
 <!--a -->
-<br/>
+
 <div align = "center">
     <a href = "https://twitter.com/khesirr" target = "_blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -11,12 +11,13 @@
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </div>
-
+<br/>
+<h3 align="center"> ✨ About me✨ </h3>
 <div>
-    <table align="center">
-        <!--about me -->
+<table align="center" width ="100%">
+<!--about me -->
 <tr>
-<td valign = "top" width = "40%"> 
+<td valign = "top"> 
 
 - test
 - test
@@ -27,7 +28,7 @@
 - test
 
 </td>
-<td valign = "top" width = "40%"> 
+<td valign = "top"> 
 
 - test
 - test
@@ -57,7 +58,7 @@
 <!--Github Stats-->
 <p align="center">
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=khesir&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img with="400px" src="https://github-readme-stats.vercel.app/api?username=khesir&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
   
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
