@@ -51,7 +51,7 @@
   
   <img with="50px" src="https://github-readme-stats.vercel.app/api?username=khesir&theme=chartreuse-dark&show_icons=true" alt="GitHub Stats"/>
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
 <!--Github Snek-->
