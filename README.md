@@ -18,6 +18,7 @@
 <!--about me -->
 <tr>
 <td valign = "top"> 
+
 - Currently a Undergrad 3rd year studying Computer Science
 
 - Highly intrested on Game Systems, Fullstack development , Bots & AI
