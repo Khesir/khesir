@@ -24,7 +24,7 @@
 
 - Illustrator and pixelart mainly draw character and prefabs
 
-- Currently Learning C# Discord Bots, Implementing various API
+- Currently Relearning Webdevelopment, React and Node.js
 
 - Producing projects as many as possible.
 </td>
@@ -39,10 +39,10 @@
         <a href= "" ><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
         <a href= "" ><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
         <a href= "" ><img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
-        <a href= "" ><img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
         <a href= "" ><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" >
+        <a href= "" ><img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" >
         <a href= "" ><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
-         <a href= "" ><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+        <a href= "" ><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </p>
 <!--Github Stats-->
 <p align="center">
