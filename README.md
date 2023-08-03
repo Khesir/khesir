@@ -45,6 +45,4 @@
         <a href= "" ><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </p>
 <!--Github Stats-->
-<p align="center">
-  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=khesir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-</p>
+
