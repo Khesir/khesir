@@ -1,5 +1,5 @@
 <!--a -->
-<h2 align = "center"> Hi, I'm Aj Tollo! :wave: </h2>
+<h2 align = "center"> Hi, I'm Khesir :wave: </h2>
 <i> <p align="center">A Passionate problem solver, Highly intrested in creating softwares that will used to make my life even more easier and eager to discover more in tech.</p> </i>
 <!--a -->
 
