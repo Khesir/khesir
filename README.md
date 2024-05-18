@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
 <img src="https://img.shields.io/badge/Interest-Graphics Programming-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding & Reading-blue" />
-<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+<img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
 ---
