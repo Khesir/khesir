@@ -11,7 +11,7 @@
 <br>
 <p>
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
-<img src="https://img.shields.io/badge/Interest-Graphics Programmin-blue"/>
+<img src="https://img.shields.io/badge/Interest-Simulations-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Game Dev-blue" />
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
