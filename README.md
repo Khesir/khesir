@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 I’m currently working on [Ari Connect Discord Bot](https://ariconnect.vercel.app/)
+- 🔭 I’m currently working on [Ari Connect Discord Bot](https://ariconnect.vercel.app/) as a side project
 - 📖 I’m currently learning C++ OpenGL
 ---
 ### Most use language
