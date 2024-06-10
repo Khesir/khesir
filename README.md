@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Hobby-Game Dev-blue" />
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
-vvv
+
 - 🔭 I’m currently working on [Ari Connect Discord Bot](https://ariconnect.vercel.app/) as a side project
 - 📖 I’m currently learning React Native
 ---
