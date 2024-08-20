@@ -16,8 +16,9 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 I’m currently working on [Ari Connect Discord Bot](https://ariconnect.vercel.app/)
-- 📖 I study Computer Graphics in my free time
+- 🔭 I’m partime working on project [Ari Connect Discord Global chat bot](https://ariconnect.vercel.app/)
+- 🔎 Currently creating a EMS that has real-time chat and activities
+
 ---
 ### Most use language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
