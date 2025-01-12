@@ -5,9 +5,6 @@
 
 > [!NOTE]
 > [ Fullstack ]  Experienced in Developing Bots and Website 
-
-<a href="https://www.linkedin.com/in/aj-tollo-bab562234/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMvwsQgQWLHwltrsjXbwvHmDdlvdqwKQjCnQNcCxMzWnrFSXBlPbMxVTTGWmxgJrQkgSD"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <br>
 <p>
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
