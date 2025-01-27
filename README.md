@@ -30,11 +30,3 @@
 
 </details>
 
----
-
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khesir&layout=compact&langs_count=8&card_width=320&border_color=247a4d&title_color=247a4d" />
-</a>
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khesir&show_icons=false&theme=tokyonight" />
-</a>
