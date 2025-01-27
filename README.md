@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 I’m partime working on project [Ari Connect Discord Global chat bot](https://ariconnect.vercel.app/)
-- 🔎 Currently creating a EMS that has real-time chat and activities
+- 🔭 Currently Employed as an Intern In Automation Befied as a Software Engineering (Automation)
+- 🔎 Trying to balance personal, school and work projects.
 
 ---
 ### Most use language
