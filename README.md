@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 Currently Employed as an Intern In Automation Befied as a Software Engineering (Automation)
+- 🔭 Currently busy working on 3 active projects.
 - 🔎 Trying to balance personal, school and work projects.
 
 ---
