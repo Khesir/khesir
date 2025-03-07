@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 Currently busy working on 3 active projects.
-- 🔎 Trying to balance personal, school and work projects.
+- 🔭 Working projects with stack Python + GO and Socket.IO.
+- 🔎 Trying to balance personal, school and work.
 
 ---
 ### TechStack
