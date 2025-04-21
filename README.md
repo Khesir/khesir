@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
 
-- 🔭 Working projects with stack Python + GO and Socket.IO.
-- 🔎 Trying to balance personal, school and work.
+- 🔭 I seek for a balance of Life, Work and Personal Growth.
+- 🔎 Developing with Tech and Art is my IKIGAI.
 
 ---
 ### TechStack
