@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> [ Fullstack ]  Experienced in Developing Bots and Website 
+> [ Fullstack ]  Experienced in Developing Bots, Website, and Multiplatform apps 
 <br>
 <p>
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/Hobby-Reading-blue" />
 <img src="https://img.shields.io/badge/Language-English-blue" />
 </p>
-
-- 🔭 I seek for a balance of Life, Work and Personal Growth.
-- 🔎 Developing with Tech and Art is my IKIGAI.
 
 ---
 ### TechStack
