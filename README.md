@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> [ Fullstack ]  Experienced in Developing Bots, Website, and Multiplatform apps 
+> Backend and game developer focused on scalable architecture for games and software.
 <br>
 <p>
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
