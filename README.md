@@ -4,7 +4,7 @@
 
 
 > [!NOTE]
-> Backend and game developer focused on scalable architecture for games and software.
+> Software Engineer specializing in backend and game development focused on scalable architecture for games and software.
 <br>
 <p>
 <img src="https://komarev.com/ghpvc/?username=khesir"/>
