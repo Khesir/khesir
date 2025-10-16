@@ -4,7 +4,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=khesir"/> 
-  <img src="https://img.shields.io/badge/Status-Looking for partime dev job-blue" />
+  <img src="https://img.shields.io/badge/Status-freelance-blue" />
     <img src="https://img.shields.io/badge/ - -blue" />
   <img src="https://img.shields.io/badge/ - -blue" />
   <img src="https://img.shields.io/badge/ - -blue" />
